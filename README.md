@@ -176,7 +176,7 @@ Some projects are completed, while others are currently under development.
 ## 🔗 Connect With Me
 
 - GitHub: [Jaafar-Daoud-AC](https://github.com/Jaafar-Daoud-AC)
-- LinkedIn: [Add your LinkedIn profile here](#)
+- LinkedIn: [www.linkedin.com/in/jaafar-daoud-1592012a1](#)
 
 ---
 
