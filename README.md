@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 # JA'AFAR DAOUD
 
@@ -54,6 +55,7 @@ A feature-rich Snake game developed with Pygame, featuring multiple difficulty l
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -78,6 +80,7 @@ A 3D file-system interface experiment that transforms files and folders into int
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -88,17 +91,6 @@ My first Telegram bot, developed as an introduction to bot programming, API inte
 **Technologies:** Python · Telegram API
 
 [**Explore Repository →**](https://github.com/Jaafar-Daoud-AC/Telegram-Bot)
-
-</td>
-<td width="50%" valign="top">
-
-### ➕ New Project
-
-A space reserved for the next project.
-
-**Technologies:** Add project technologies here.
-
-[**Explore Repository →**](REPOSITORY_URL)
 
 </td>
 </tr>
@@ -129,7 +121,7 @@ A space reserved for the next project.
 - Embedded Systems
 - Robotics
 - Artificial Intelligence
-- Internet of Things
+- Internet of Things (IoT)
 - Sensors & Actuators
 - Microcontrollers
 
@@ -190,7 +182,7 @@ I am particularly interested in projects that combine hardware and software to s
 <!--
 HOW TO ADD A NEW PROJECT:
 
-1. Copy one of the project <td> blocks.
+1. Copy one of the existing project <td> blocks.
 2. Replace the project name and emoji.
 3. Add a short, clear description.
 4. Update the technologies.
