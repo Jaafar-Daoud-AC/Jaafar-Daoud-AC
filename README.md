@@ -1,183 +1,201 @@
-# Jaafar Daoud
+ <div align="center">
 
-### Applied Communications Engineer | Embedded Systems | Robotics | AI & IoT
+# JA'AFAR DAOUD
 
-Welcome to my GitHub profile.
+### Applied Communications Engineer
 
-I am an Applied Communications Engineer interested in software development, embedded systems, robotics, artificial intelligence, IoT, communication systems, and practical engineering projects.
+**Embedded Systems · Robotics · Artificial Intelligence · IoT**
 
-This profile showcases my programming, software, web development, and robotics projects throughout my technical development.
+Building practical engineering solutions through software, hardware, and technology.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Jaafar--Daoud--AC-181717?style=for-the-badge&logo=github)](https://github.com/Jaafar-Daoud-AC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaafar-daoud-1592012a1)
 
-## 🚀 Projects
-
-### 1. Calculator
-
-A Python desktop calculator built with Tkinter, combining basic arithmetic, scientific functions, and selected communication engineering formulas.
-
-🔗 [View Calculator Repository](https://github.com/Jaafar-Daoud-AC/Calculator)
+</div>
 
 ---
 
-### 2. Snake
+## 👨‍💻 About Me
 
-A Python Snake game built with Pygame, featuring multiple difficulty levels, progressive speed, bonus food, obstacles, persistent high scores, pause, and help screens.
+I am an Applied Communications Engineer passionate about software development, communication systems, embedded technologies, robotics, artificial intelligence, and the Internet of Things.
 
-🔗 [View Snake Repository](https://github.com/Jaafar-Daoud-AC/Snake)
+I enjoy transforming engineering concepts into practical applications through programming, experimentation, and hands-on projects.
 
----
-
-### 3. Survival Game
-
-A game development project currently under development.
-
-**Status:** 🚧 In Progress
-
-🔗 [View Survival Game Repository](https://github.com/Jaafar-Daoud-AC/Survival-Game)
+This profile showcases my engineering journey, software applications, robotics projects, games, and web development work.
 
 ---
 
-### 4. Minecraft
+## 🚀 Featured Projects
 
-A game development project currently under development.
+A collection of my software, engineering, and development projects.
 
-**Status:** 🚧 In Progress
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [View Minecraft Repository](https://github.com/Jaafar-Daoud-AC/Minecraft)
+### 🧮 Calculator
+
+A Python desktop calculator built with Tkinter, featuring basic arithmetic, scientific operations, and selected communication engineering formulas.
+
+**Technologies:** Python · Tkinter
+
+[**Explore Repository →**](https://github.com/Jaafar-Daoud-AC/Calculator)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Snake Game
+
+A feature-rich Snake game developed with Pygame, featuring multiple difficulty levels, progressive speed, bonus food, obstacles, saved high scores, pause, and help screens.
+
+**Technologies:** Python · Pygame
+
+[**Explore Repository →**](https://github.com/Jaafar-Daoud-AC/Snake)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Survival Game
+
+A 2D side-scrolling platformer featuring five levels, boss battles, unlockable abilities, enemies, hazards, checkpoints, and survival gameplay.
+
+**Technologies:** Python · Pygame
+
+[**Explore Repository →**](https://github.com/Jaafar-Daoud-AC/Survival-Game)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 FileWorld
+
+A 3D file-system interface experiment that transforms files and folders into interactive objects inside a virtual world.
+
+**Technologies:** Python · Ursina
+
+[**Explore Repository →**](https://github.com/Jaafar-Daoud-AC/FileWorld)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Telegram Bot
+
+My first Telegram bot, developed as an introduction to bot programming, API integration, and automated interactions.
+
+**Technologies:** Python · Telegram API
+
+[**Explore Repository →**](https://github.com/Jaafar-Daoud-AC/Telegram-Bot)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ New Project
+
+A space reserved for the next project.
+
+**Technologies:** Add project technologies here.
+
+[**Explore Repository →**](REPOSITORY_URL)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 5. First Telegram Bot
+## 🛠️ Technical Skills
 
-The first Telegram bot I built as a learning project.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-This project represents one of my early steps into programming bots and working with APIs.
-
-🔗 [View Telegram Bot Repository](https://github.com/Jaafar-Daoud-AC/Telegram-Bot)
-
----
-
-### 6. COLBA — All Versions
-
-COLBA, including its different versions and updates throughout its development.
-
-🔗 [View COLBA Repository](https://github.com/Jaafar-Daoud-AC/COLBA)
-
----
-
-### 7. Educational Platform
-
-An educational platform website currently under development.
-
-The current focus is on the visual design and user interface of the platform.
-
-**Status:** 🚧 In Progress
-
-🔗 [View Educational Platform Repository](https://github.com/Jaafar-Daoud-AC/Educational-Platform)
-
----
-
-### 8. EMPEROR — All Updates
-
-The EMPEROR website, including its different updates and development stages.
-
-🔗 [View EMPEROR Repository](https://github.com/Jaafar-Daoud-AC/EMPEROR)
-
----
-
-### 9. Third-Year Robot
-
-A robotics project developed during my third year of engineering studies.
-
-🔗 [View Third-Year Robot Repository](https://github.com/Jaafar-Daoud-AC/Robot-Third-Year)
-
----
-
-### 10. Robot — All Updates
-
-My robotics project and its different versions and updates.
-
-🔗 [View Robot Repository](https://github.com/Jaafar-Daoud-AC/Robot)
-
----
-
-### 11. SAIMON — All Versions
-
-SAIMON, including its different versions and development stages.
-
-🔗 [View SAIMON Repository](https://github.com/Jaafar-Daoud-AC/SAIMON)
-
----
-
-## 🛠️ Technologies & Skills
-
-### Programming
+### 💻 Programming
 
 - Python
 - C / C++
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 
-### Engineering
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Engineering
 
 - Communication Systems
 - Embedded Systems
 - Robotics
 - Artificial Intelligence
-- Internet of Things (IoT)
+- Internet of Things
 - Sensors & Actuators
 - Microcontrollers
 
-### Development Tools
+</td>
+<td width="33%" valign="top">
 
-- Git
-- GitHub
-- VS Code
+### 🔧 Development Tools
+
+- Git & GitHub
+- Visual Studio Code
 - Tkinter
 - Pygame
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 Current Focus
+## 🎓 Engineering Background
 
-I am currently working on developing my skills and projects in:
+**Applied Communications Engineering**
 
-- Embedded Systems
-- Robotics
+My engineering background connects communication technologies with software development, embedded systems, robotics, and intelligent applications.
+
+I am particularly interested in projects that combine hardware and software to solve real-world problems.
+
+---
+
+## 🎯 Areas of Interest
+
+- Embedded Systems & Microcontrollers
+- Robotics & Automation
 - Artificial Intelligence
-- IoT
-- Software Development
+- Internet of Things (IoT)
 - Communication Engineering
+- Software Engineering
 - Game Development
 - Web Development
 
 ---
 
-## 🎓 Background
+## 📫 Connect With Me
 
-**Applied Communications Engineering**
+<div align="center">
 
-My work combines communication engineering with software, embedded systems, robotics, web development, and practical engineering projects.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jaafar-Daoud-AC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaafar-daoud-1592012a1)
 
-I enjoy building projects that allow me to transform theoretical concepts into practical applications.
+**Thank you for visiting my profile!**
 
----
+⭐ Feel free to explore my repositories and follow my engineering projects.
 
-## 📌 Project Status
-
-This profile is continuously updated as projects are developed and new work is added.
-
-Some projects are completed, while others are currently under development.
+</div>
 
 ---
 
-## 🔗 Connect With Me
+<!--
+HOW TO ADD A NEW PROJECT:
 
-- GitHub: [Jaafar-Daoud-AC](https://github.com/Jaafar-Daoud-AC)
-- LinkedIn: [www.linkedin.com/in/jaafar-daoud-1592012a1]
+1. Copy one of the project <td> blocks.
+2. Replace the project name and emoji.
+3. Add a short, clear description.
+4. Update the technologies.
+5. Replace the repository URL.
 
----
-
-⭐ Explore my repositories to follow my projects and technical development.
+For a new row, use two <td> blocks inside a <tr>.
+Keep the same structure to maintain a consistent portfolio.
+-->
