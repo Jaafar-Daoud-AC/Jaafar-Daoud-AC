@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# JA'AFAR DAOUD
+# JAAFAR DAOUD
 
 ### Applied Communications Engineer
 
